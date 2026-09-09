@@ -1,0 +1,8 @@
+{
+  "name": "antique-clock-workshop",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "server": "node server.js", "build": "vite build" },
+  "dependencies": { "@vitejs/plugin-vue": "latest", "vite": "latest", "vue": "latest", "express": "latest", "cors": "latest" },
+  "devDependencies": {}
+}
