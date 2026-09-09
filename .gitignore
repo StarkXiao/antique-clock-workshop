@@ -1,0 +1,4 @@
+node_modules/
+dist/
+workshop-records.json
+.DS_Store
